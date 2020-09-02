@@ -9,3 +9,5 @@ right mouse button - drop a boomb
 space - restart game 
 
 highest score - 219 pkt
+
+watch me now 
