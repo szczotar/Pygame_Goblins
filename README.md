@@ -1,7 +1,7 @@
 # Pygame_Goblins
 Goblins in the Wild West
 
-All sprites and exe file in rar
+elo.exe to run the game.
 
 Do not let Goblins run across the screen. 
 left mouse button - shoot and pick up a boomb
